@@ -2,8 +2,7 @@
 ===========
 
 ## Wireless light switch
-![image](http://trendsonline.co/wp-content/uploads/2012/11/hello_world.png)
-![image](circuit_audio.jgp)
+![image](http://iwe.cisco.com/image/image_gallery?img_id=607204608&t=1370273876228)
 
 A nerd project based on Arduino and cheap radios
 
